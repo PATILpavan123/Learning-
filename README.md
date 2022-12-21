@@ -21,3 +21,7 @@ Docker
 Linux 
 
    1. Interactive labs - https://killercoda.com/chadmcrowell/scenario/kubernetes-backup-etcd
+
+Python
+
+   1. Training - https://www.w3schools.com/python/python_intro.asp
